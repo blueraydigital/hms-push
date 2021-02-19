@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "lib",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "newLine": "lf",
+    "types": [
+      "node"
+    ]
+  },
+  "files": [
+    "./node_modules/@types/node/index.d.ts",
+  ],
+  "include": [
+    "src",
+  ]
+}
