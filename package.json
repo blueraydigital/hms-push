@@ -1,6 +1,6 @@
 {
   "name": "@alfredkoncsag/hms-push",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "HMS push service SDK.",
   "main": "./lib/index.js",
   "scripts": {
