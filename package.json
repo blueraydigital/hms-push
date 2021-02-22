@@ -1,5 +1,5 @@
 {
-  "name": "@alfredkoncsag/hms-push",
+  "name": "@blueraydigital/hms-push",
   "version": "1.2.1",
   "description": "HMS push service SDK.",
   "main": "./lib/index.js",
@@ -14,10 +14,10 @@
     "subscribe",
     "unsubscribe"
   ],
-  "author": "Alfred Koncsag <koncsagalfred@gmail.com> (https://github.com/alfredkoncsag)",
+  "author": "Blueray Digital <ka@blueray.hu> (https://github.com/blueraydigital)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alfredkoncsag/hms-push.git"
+    "url": "https://github.com/blueraydigital/hms-push.git"
   },
   "license": "Apache-2.0",
   "devDependencies": {

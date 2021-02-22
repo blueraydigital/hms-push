@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-$ npm install --save @alfredkoncsag/hms-push
+$ npm install --save @blueraydigital/hms-push
 ```
 
 ## Configuration 
@@ -61,7 +61,7 @@ The following table lists methods in Topic.
 
 #### 1. Send data message.
 ```js 
-const hms = require("@alfredkoncsag/hms-push").default;
+const hms = require("@blueraydigital/hms-push").default;
 const config = require("./config");
 
 hms.init({
@@ -94,7 +94,7 @@ mc.send(message, false).then(data => {
 
 #### 1. Send Test message.
 ```js 
-const hcm = require("@alfredkoncsag/hms-push").default;
+const hcm = require("@blueraydigital/hms-push").default;
 const config = require("./config");
 
 hcm.init({
@@ -195,7 +195,7 @@ mc.send(message, false).then(data => {
 
 #### 2. Send data message.
 ```js 
-const hms = require("@alfredkoncsag/hms-push").default;
+const hms = require("@blueraydigital/hms-push").default;
 const config = require("./config");
 
 hms.init({
